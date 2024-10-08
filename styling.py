@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # PAGE SETTINGS
 # ----------------------------------------------------------------------------
-app_title = 'New Hampshire Dashboard - 2024'
-page_title = 'New Hampshire 2024'
+app_title = 'New Hampshire Environmental Education Directory'
+page_title = 'New Hampshire Environmental Education Directory'
 sub_title = 'Filter on'
 filter_category_1 = 'Organization Data'
 filter_category_2 = 'Program Data'
